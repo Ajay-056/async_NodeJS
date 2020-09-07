@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ajay6/async_NodeJS/issues"
   },
-  "homepage": "https://github.com/Ajay6/async_NodeJS#readme"
+  "homepage": "https://github.com/Ajay6/async_NodeJS#readme",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  }
 }
